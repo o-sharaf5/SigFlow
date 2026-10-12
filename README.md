@@ -4,6 +4,8 @@ A lightweight, fully client-side SaaS-style tool: a live split-screen editor tha
 generates **paste-safe HTML email signatures** for Gmail, Outlook and Apple Mail.
 Built as a portfolio project.
 
+**Live demo: https://sigflow-henna.vercel.app**
+
 **Stack:** Next.js 16 (App Router) · TypeScript · Tailwind CSS v4 · shadcn/ui
 (Base UI primitives) · Lucide React · next-themes · localStorage drafts.
 No backend required — the whole app prerenders as static HTML, so Vercel deploys
